@@ -3,6 +3,14 @@
 
 The Advanced Search Plugin is a powerful tool designed to enhance the search functionality of your website or application. It allows users to perform complex searches with multiple criteria, providing more accurate and relevant results.
 
+<video width="800" height="400" controls autoplay loop>
+  <source src="CSD_Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
 ## Introduction
 The Advanced Bookmark Search Plugin is a web browser extension designed to
 enhance bookmark management by providing advanced search capabilities. This
